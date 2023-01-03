@@ -1,3 +1,4 @@
+// Max Consecutive Ones
 function consective(arr,len){
     
     let count = 0;
