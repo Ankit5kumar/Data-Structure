@@ -5,7 +5,7 @@ let meetups = [
     {name: 'React',isactive: true,members:500},
 ];
 
-// This where we can use the Hof with inbuilt function ;
+// This where we can use the Hof with inbuilt function checking;
 let sumPchain = meetups.filter((m=>{ return m.name}));
 console.log(sumPchain);
 let mapped=meetups.map((n)=>{
