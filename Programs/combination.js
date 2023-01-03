@@ -1,3 +1,4 @@
+// finding all unique combinations of numbers in an array
 function combinationSum(arr,sum){
     let ans = new Array();
     let temp = new Array();
