@@ -1,3 +1,4 @@
+// sorting an array using Bubblesort
 function bubblesort(array){
     let n = array.length
       for(let i = 1;i<n;i++){
@@ -12,13 +13,4 @@ function bubblesort(array){
     let array = [];
     for(let i = 1;i<=100;i++)array.push(i);
   console.log(bubblesort(array));
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
+  
