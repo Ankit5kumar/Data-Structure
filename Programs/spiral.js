@@ -6,6 +6,9 @@ let rowMax=arr.length-1;
 let colMin=0;
 let colMax=arr[0].length-1;
 let counter=0;
+// Given an m x n matrix, return all elements of the matrix in spiral order.
+
+ 
 let nel=arr.length*arr[0].length;
 
 while(counter<nel){
